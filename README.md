@@ -1,5 +1,4 @@
 # Menú Dinámico con JSON
-
 Este proyecto implementa un **menú dinámico** generado a partir de una estructura de datos externa (JSON), permitiendo agregar, editar y eliminar opciones sin modificar el código fuente.
 
 ## Características principales
