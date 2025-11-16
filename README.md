@@ -61,25 +61,16 @@ Este proyecto implementa un **menú dinámico** generado a partir de una estruct
 ## Instalación y uso
 
 1. Clona el proyecto:
-
-   ```bash
    git clone https://github.com/usuario/proyecto-menu
-   ```
+   
 2. Instala dependencias:
-
-   ```bash
    npm install
-   ```
+  
 3. Ejecuta el servidor de desarrollo:
-
-   ```bash
    npm run dev
-   ```
-4. Abre en el navegador:
 
-   ```
-   http://localhost:5173
-   ```
+4. Abre en el navegador:
+http://localhost:5173
 
 ## Validaciones incluidas
 
