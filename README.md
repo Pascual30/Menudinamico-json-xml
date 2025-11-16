@@ -1,6 +1,6 @@
-## Menú Dinámico con JSON
+# Menú Dinámico con JSON
 
-Este proyecto implementa un menú dinámico generado a partir de una estructura de datos externa (JSON), permitiendo agregar, editar y eliminar opciones sin modificar el código fuente.
+Este proyecto implementa un **menú dinámico** generado a partir de una estructura de datos externa (JSON), permitiendo agregar, editar y eliminar opciones sin modificar el código fuente.
 
 ## Características principales
 
@@ -14,6 +14,7 @@ Este proyecto implementa un menú dinámico generado a partir de una estructura 
 * Actualización del menú **sin recargar la página**.
 * Persistencia con **localStorage**.
 * Diseño **responsive** para móviles, tablets y escritorio.
+
 
 ## Estructura JSON utilizada
 
@@ -38,7 +39,7 @@ Este proyecto implementa un menú dinámico generado a partir de una estructura 
     }
   ]
 }
-
+```
 
 ## Tecnologías utilizadas
 
@@ -87,7 +88,6 @@ Este proyecto implementa un menú dinámico generado a partir de una estructura 
 * Evita agregar opciones vacías.
 * Sanitización básica para prevenir entradas inseguras.
 
-
 ## Responsividad
 
 El menú adapta automáticamente su estructura en tamaños:
@@ -98,7 +98,6 @@ El menú adapta automáticamente su estructura en tamaños:
 
 Incluye estilos que modifican la dirección del menú y comportamiento del submenu.
 
-
 ## Qué se aprendió en este proyecto
 
 * Crear componentes reactivos basados en datos externos.
@@ -107,16 +106,15 @@ Incluye estilos que modifican la dirección del menú y comportamiento del subme
 * Validaciones y estructura de menús complejos.
 * Construcción de UI responsiva.
 
-
 ## Futuras mejoras
 
 * Editor visual de submenús.
 * Integración con backend (API).
 * Panel de administración protegido.
 
-
 ## Autor
 
-**Pascual Pimentel**
+**Pascual Pimentel Vicente**
 
 Proyecto desarrollado como ejercicio práctico para construir un menú dinámico editable sin modificar código fuente.
+
